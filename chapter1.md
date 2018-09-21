@@ -1,22 +1,25 @@
 ---
 title: Test
 description: Test
-
 ---
+
 ## Sample exercise
 
 ```yaml
 type: NormalExercise
+key: 82db100c31
 lang: python
 xp: 100
 skills: 2
-key: 82db100c31
 ```
+
 
 
 `@instructions`
 
+
 `@hint`
+
 
 `@pre_exercise_code`
 ```{python}
