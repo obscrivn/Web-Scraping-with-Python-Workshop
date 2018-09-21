@@ -40,3 +40,16 @@ skills: 2
 ```{python}
 
 ```
+
+---
+
+## Sponsored by CEWIT and SSRC
+
+```yaml
+type: VideoExercise
+key: 0c4a9c8d13
+xp: 50
+```
+
+`@projector_key`
+79673afa908d33612484b0e94408994d
